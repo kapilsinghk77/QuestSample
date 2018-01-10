@@ -1,2 +1,0 @@
-# QuestSample
-Quest Sample GIT
